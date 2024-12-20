@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/Programming/c-_lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\main.cpp.obj -c D:\\Programming\\c-_lab6\\main.cpp",
+  "file": "D:\\Programming\\c-_lab6\\main.cpp",
+  "output": "CMakeFiles\\lab6.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/Programming/c-_lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\controller\\controller.cpp.obj -c D:\\Programming\\c-_lab6\\controller\\controller.cpp",
+  "file": "D:\\Programming\\c-_lab6\\controller\\controller.cpp",
+  "output": "CMakeFiles\\lab6.dir\\controller\\controller.cpp.obj"
+},
+{
+  "directory": "D:/Programming/c-_lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\controller\\controller_document.cpp.obj -c D:\\Programming\\c-_lab6\\controller\\controller_document.cpp",
+  "file": "D:\\Programming\\c-_lab6\\controller\\controller_document.cpp",
+  "output": "CMakeFiles\\lab6.dir\\controller\\controller_document.cpp.obj"
+},
+{
+  "directory": "D:/Programming/c-_lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\controller\\controller_primitive.cpp.obj -c D:\\Programming\\c-_lab6\\controller\\controller_primitive.cpp",
+  "file": "D:\\Programming\\c-_lab6\\controller\\controller_primitive.cpp",
+  "output": "CMakeFiles\\lab6.dir\\controller\\controller_primitive.cpp.obj"
+},
+{
+  "directory": "D:/Programming/c-_lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\model\\model_document.cpp.obj -c D:\\Programming\\c-_lab6\\model\\model_document.cpp",
+  "file": "D:\\Programming\\c-_lab6\\model\\model_document.cpp",
+  "output": "CMakeFiles\\lab6.dir\\model\\model_document.cpp.obj"
+},
+{
+  "directory": "D:/Programming/c-_lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\model\\model_primitive.cpp.obj -c D:\\Programming\\c-_lab6\\model\\model_primitive.cpp",
+  "file": "D:\\Programming\\c-_lab6\\model\\model_primitive.cpp",
+  "output": "CMakeFiles\\lab6.dir\\model\\model_primitive.cpp.obj"
+},
+{
+  "directory": "D:/Programming/c-_lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\model\\model_square.cpp.obj -c D:\\Programming\\c-_lab6\\model\\model_square.cpp",
+  "file": "D:\\Programming\\c-_lab6\\model\\model_square.cpp",
+  "output": "CMakeFiles\\lab6.dir\\model\\model_square.cpp.obj"
+},
+{
+  "directory": "D:/Programming/c-_lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\model\\model_rectangle.cpp.obj -c D:\\Programming\\c-_lab6\\model\\model_rectangle.cpp",
+  "file": "D:\\Programming\\c-_lab6\\model\\model_rectangle.cpp",
+  "output": "CMakeFiles\\lab6.dir\\model\\model_rectangle.cpp.obj"
+},
+{
+  "directory": "D:/Programming/c-_lab6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\lab6.dir\\view\\view.cpp.obj -c D:\\Programming\\c-_lab6\\view\\view.cpp",
+  "file": "D:\\Programming\\c-_lab6\\view\\view.cpp",
+  "output": "CMakeFiles\\lab6.dir\\view\\view.cpp.obj"
+}
+]
